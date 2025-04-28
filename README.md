@@ -1,1 +1,1 @@
-# sber-internship-ner
+Прошу поменять docs_dir, labels_dir на пути к документам, лэйблам соответственно
